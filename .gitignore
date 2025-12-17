@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+.venv/
+Flask/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights
+*.pth
+*.pt
+*.h5
+
+# Environment variables
+.env
